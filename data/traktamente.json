@@ -1,1727 +1,2186 @@
 [
   {
-  "land eller område": "Albanien",
-  "normalbelopp": "265",
-  "år": "2023"
+    "country or territory": "Albania",
+    "standard amount": "322",
+    "year": "2024",
+    "code": "AL"
   },
   {
-  "land eller område": "Algeriet",
-  "normalbelopp": "376",
-  "år": "2023"
+    "country or territory": "Algeria",
+    "standard amount": "388",
+    "year": "2024",
+    "code": "DZ"
   },
   {
-  "land eller område": "Angola",
-  "normalbelopp": "956",
-  "år": "2023"
+    "country or territory": "Angola",
+    "standard amount": "530",
+    "year": "2024",
+    "code": "AO"
   },
   {
-  "land eller område": "Antigua och Barbuda",
-  "normalbelopp": "814",
-  "år": "2023"
+    "country or territory": "Antigua and Barbuda",
+    "standard amount": "834",
+    "year": "2024",
+    "code": "AG"
   },
   {
-  "land eller område": "Argentina",
-  "normalbelopp": "305",
-  "år": "2023"
+    "country or territory": "Argentina",
+    "standard amount": "290",
+    "year": "2024",
+    "code": "AR"
   },
   {
-  "land eller område": "Armenien",
-  "normalbelopp": "544",
-  "år": "2023"
+    "country or territory": "Armenien",
+    "standard amount": "557",
+    "year": "2024",
+    "code": "AM"
   },
   {
-  "land eller område": "Australien",
-  "normalbelopp": "744",
-  "år": "2023"
+    "country or territory": "Australia",
+    "standard amount": "817",
+    "year": "2024",
+    "code": "AU"
   },
   {
-  "land eller område": "Azerbajdzjan",
-  "normalbelopp": "436",
-  "år": "2023"
+    "country or territory": "Azerbaijan",
+    "standard amount": "471",
+    "year": "2024",
+    "code": "AZ"
   },
   {
-  "land eller område": "Bahamas",
-  "normalbelopp": "1140",
-  "år": "2023"
+    "country or territory": "Bahamas",
+    "standard amount": "1267",
+    "year": "2024",
+    "code": "BS"
   },
   {
-  "land eller område": "Bahrain",
-  "normalbelopp": "867",
-  "år": "2023"
+    "country or territory": "Bahrain",
+    "standard amount": "994",
+    "year": "2024",
+    "code": "BH"
   },
   {
-  "land eller område": "Bangladesh",
-  "normalbelopp": "520",
-  "år": "2023"
+    "country or territory": "Bangladesh",
+    "standard amount": "499",
+    "year": "2024",
+    "code": "BD"
   },
   {
-  "land eller område": "Barbados",
-  "normalbelopp": "1095",
-  "år": "2023"
+    "country or territory": "Barbados",
+    "standard amount": "1125",
+    "year": "2024",
+    "code": "BB"
   },
   {
-  "land eller område": "Belarus",
-  "normalbelopp": "317",
-  "år": "2023"
+    "country or territory": "Belarus",
+    "standard amount": "290",
+    "year": "2024",
+    "code": "BY"
   },
   {
-  "land eller område": "Belgien",
-  "normalbelopp": "794",
-  "år": "2023"
+    "country or territory": "Belgium",
+    "standard amount": "894",
+    "year": "2024",
+    "code": "BE"
   },
   {
-  "land eller område": "Belize",
-  "normalbelopp": "658",
-  "år": "2023"
+    "country or territory": "Belize",
+    "standard amount": "681",
+    "year": "2024",
+    "code": "BZ"
   },
   {
-  "land eller område": "Benin",
-  "normalbelopp": "531",
-  "år": "2023"
+    "country or territory": "Benin",
+    "standard amount": "600",
+    "year": "2024",
+    "code": "BJ"
   },
   {
-  "land eller område": "Bolivia",
-  "normalbelopp": "438",
-  "år": "2023"
+    "country or territory": "Bolivia",
+    "standard amount": "432",
+    "year": "2024",
+    "code": "BO"
   },
   {
-  "land eller område": "Bosnien-Hercegovina",
-  "normalbelopp": "345",
-  "år": "2023"
+    "country or territory": "Bosnia and Herzegovina",
+    "standard amount": "377",
+    "year": "2024",
+    "code": "BA"
   },
   {
-  "land eller område": "Botswana",
-  "normalbelopp": "379",
-  "år": "2023"
+    "country or territory": "Botswana",
+    "standard amount": "407",
+    "year": "2024",
+    "code": "BW"
   },
   {
-  "land eller område": "Brasilien",
-  "normalbelopp": "430",
-  "år": "2023"
+    "country or territory": "Brazil",
+    "standard amount": "505",
+    "year": "2024",
+    "code": "BR"
   },
   {
-  "land eller område": "Brunei Darussalam",
-  "normalbelopp": "524",
-  "år": "2023"
+    "country or territory": "Brunei Darussalam",
+    "standard amount": "551",
+    "year": "2024",
+    "code": "BN"
   },
   {
-  "land eller område": "Bulgarien",
-  "normalbelopp": "389",
-  "år": "2023"
+    "country or territory": "Bulgaria",
+    "standard amount": "431",
+    "year": "2024",
+    "code": "BG"
   },
   {
-  "land eller område": "Burkina Faso",
-  "normalbelopp": "433",
-  "år": "2023"
+    "country or territory": "Burkina Faso",
+    "standard amount": "478",
+    "year": "2024",
+    "code": "BF"
   },
   {
-  "land eller område": "Burma",
-  "normalbelopp": "260",
-  "år": "2023"
+    "country or territory": "Burma",
+    "standard amount": "290",
+    "year": "2024",
+    "code": ""
   },
   {
-  "land eller område": "Centralafrikanska republiken",
-  "normalbelopp": "461",
-  "år": "2023"
+    "country or territory": "Central African Republic",
+    "standard amount": "501",
+    "year": "2024",
+    "code": "CF"
   },
   {
-  "land eller område": "Chile",
-  "normalbelopp": "487",
-  "år": "2023"
+    "country or territory": "Chile",
+    "standard amount": "575",
+    "year": "2024",
+    "code": "CL"
   },
   {
-  "land eller område": "Colombia",
-  "normalbelopp": "260",
-  "år": "2023"
+    "country or territory": "Colombia",
+    "standard amount": "343",
+    "year": "2024",
+    "code": "CO"
   },
   {
-  "land eller område": "Costa Rica",
-  "normalbelopp": "610",
-  "år": "2023"
+    "country or territory": "Costa Rica",
+    "standard amount": "772",
+    "year": "2024",
+    "code": "CR"
   },
   {
-  "land eller område": "Cypern",
-  "normalbelopp": "613",
-  "år": "2023"
+    "country or territory": "Cyprus",
+    "standard amount": "682",
+    "year": "2024",
+    "code": "CY"
   },
   {
-  "land eller område": "Danmark",
-  "normalbelopp": "1051",
-  "år": "2023"
+    "country or territory": "Denmark",
+    "standard amount": "1274",
+    "year": "2024",
+    "code": "DK"
   },
   {
-  "land eller område": "Djibouti",
-  "normalbelopp": "677",
-  "år": "2023"
+    "country or territory": "Djibouti",
+    "standard amount": "697",
+    "year": "2024",
+    "code": "DJ"
   },
   {
-  "land eller område": "Ecuador",
-  "normalbelopp": "689",
-  "år": "2023"
+    "country or territory": "Ecuador",
+    "standard amount": "703",
+    "year": "2024",
+    "code": "EC"
   },
   {
-  "land eller område": "Egypten",
-  "normalbelopp": "275",
-  "år": "2023"
+    "country or territory": "Egypt",
+    "standard amount": "290",
+    "year": "2024",
+    "code": "EG"
   },
   {
-  "land eller område": "Elfenbenskusten",
-  "normalbelopp": "693",
-  "år": "2023"
+    "country or territory": "Ivory Coast (Côte d’Ivoire)",
+    "standard amount": "766",
+    "year": "2024",
+    "code": "CI"
   },
   {
-  "land eller område": "El Salvador",
-  "normalbelopp": "565",
-  "år": "2023"
+    "country or territory": "El Salvador",
+    "standard amount": "574",
+    "year": "2024",
+    "code": "SV"
   },
   {
-  "land eller område": "Eritrea",
-  "normalbelopp": "480",
-  "år": "2023"
+    "country or territory": "Eritrea",
+    "standard amount": "504",
+    "year": "2024",
+    "code": "ER"
   },
   {
-  "land eller område": "Estland",
-  "normalbelopp": "526",
-  "år": "2023"
+    "country or territory": "Estonia",
+    "standard amount": "611",
+    "year": "2024",
+    "code": "EE"
   },
   {
-  "land eller område": "Eswatini",
-  "normalbelopp": "260",
-  "år": "2023"
+    "country or territory": "Eswatini",
+    "standard amount": "290",
+    "year": "2024",
+    "code": "SZ"
   },
   {
-  "land eller område": "Etiopien",
-  "normalbelopp": "269",
-  "år": "2023"
+    "country or territory": "Ethiopia",
+    "standard amount": "310",
+    "year": "2024",
+    "code": "ET"
   },
   {
-  "land eller område": "Filippinerna",
-  "normalbelopp": "468",
-  "år": "2023"
+    "country or territory": "Philippines",
+    "standard amount": "563",
+    "year": "2024",
+    "code": "PH"
   },
   {
-  "land eller område": "Finland",
-  "normalbelopp": "786",
-  "år": "2023"
+    "country or territory": "Finland",
+    "standard amount": "948",
+    "year": "2024",
+    "code": "FI"
   },
   {
-  "land eller område": "Frankrike",
-  "normalbelopp": "852",
-  "år": "2023"
+    "country or territory": "France",
+    "standard amount": "935",
+    "year": "2024",
+    "code": "FR"
   },
   {
-  "land eller område": "Förenade Arabemiraten",
-  "normalbelopp": "1057",
-  "år": "2023"
+    "country or territory": "United Arab Emirates (UAE)",
+    "standard amount": "1060",
+    "year": "2024",
+    "code": "AE"
   },
   {
-  "land eller område": "Gabon",
-  "normalbelopp": "680",
-  "år": "2023"
+    "country or territory": "Gabon",
+    "standard amount": "731",
+    "year": "2024",
+    "code": "GA"
   },
   {
-  "land eller område": "Gambia",
-  "normalbelopp": "321",
-  "år": "2023"
+    "country or territory": "Gambia",
+    "standard amount": "321",
+    "year": "2024",
+    "code": "GM"
   },
   {
-  "land eller område": "Georgien",
-  "normalbelopp": "315",
-  "år": "2023"
+    "country or territory": "Georgia",
+    "standard amount": "381",
+    "year": "2024",
+    "code": "GE"
   },
   {
-  "land eller område": "Ghana",
-  "normalbelopp": "260",
-  "år": "2023"
+    "country or territory": "Ghana",
+    "standard amount": "514",
+    "year": "2024",
+    "code": "GH"
   },
   {
-  "land eller område": "Grekland",
-  "normalbelopp": "639",
-  "år": "2023"
+    "country or territory": "Greece",
+    "standard amount": "728",
+    "year": "2024",
+    "code": "GR"
   },
   {
-  "land eller område": "Grenada",
-  "normalbelopp": "698",
-  "år": "2023"
+    "country or territory": "Grenada",
+    "standard amount": "706",
+    "year": "2024",
+    "code": "GD"
   },
   {
-  "land eller område": "Grönland",
-  "normalbelopp": "1051",
-  "år": "2023"
+    "country or territory": "Greenland",
+    "standard amount": "1274",
+    "year": "2024",
+    "code": "GL"
   },
   {
-  "land eller område": "Guinea",
-  "normalbelopp": "694",
-  "år": "2023"
+    "country or territory": "Guinea",
+    "standard amount": "683",
+    "year": "2024",
+    "code": "GN"
   },
   {
-  "land eller område": "Guyana",
-  "normalbelopp": "660",
-  "år": "2023"
+    "country or territory": "Guyana",
+    "standard amount": "653",
+    "year": "2024",
+    "code": "GY"
   },
   {
-  "land eller område": "Haiti",
-  "normalbelopp": "700",
-  "år": "2023"
+    "country or territory": "Haiti",
+    "standard amount": "789",
+    "year": "2024",
+    "code": "HT"
   },
   {
-  "land eller område": "Honduras",
-  "normalbelopp": "490",
-  "år": "2023"
+    "country or territory": "Honduras",
+    "standard amount": "530",
+    "year": "2024",
+    "code": "HN"
   },
   {
-  "land eller område": "Hong Kong",
-  "normalbelopp": "688",
-  "år": "2023"
+    "country or territory": "Hong Kong",
+    "standard amount": "688",
+    "year": "2024",
+    "code": "HK"
   },
   {
-  "land eller område": "Indien",
-  "normalbelopp": "359",
-  "år": "2023"
+    "country or territory": "India",
+    "standard amount": "377",
+    "year": "2024",
+    "code": "IN"
   },
   {
-  "land eller område": "Indonesien",
-  "normalbelopp": "483",
-  "år": "2023"
+    "country or territory": "Indonesia",
+    "standard amount": "488",
+    "year": "2024",
+    "code": "ID"
   },
   {
-  "land eller område": "Irak",
-  "normalbelopp": "659",
-  "år": "2023"
+    "country or territory": "Iraq",
+    "standard amount": "730",
+    "year": "2024",
+    "code": "IQ"
   },
   {
-  "land eller område": "Iran",
-  "normalbelopp": "1880",
-  "år": "2023"
+    "country or territory": "Ireland",
+    "standard amount": "1011",
+    "year": "2024",
+    "code": "IE"
   },
   {
-  "land eller område": "Irland",
-  "normalbelopp": "827",
-  "år": "2023"
+    "country or territory": "Iceland",
+    "standard amount": "1064",
+    "year": "2024",
+    "code": "IS"
   },
   {
-  "land eller område": "Island",
-  "normalbelopp": "889",
-  "år": "2023"
+    "country or territory": "Israel",
+    "standard amount": "921",
+    "year": "2024",
+    "code": "IL"
   },
   {
-  "land eller område": "Israel",
-  "normalbelopp": "1060",
-  "år": "2023"
+    "country or territory": "Italy",
+    "standard amount": "856",
+    "year": "2024",
+    "code": "IT"
   },
   {
-  "land eller område": "Italien",
-  "normalbelopp": "701",
-  "år": "2023"
+    "country or territory": "Jamaica",
+    "standard amount": "506",
+    "year": "2024",
+    "code": "JM"
   },
   {
-  "land eller område": "Jamaica",
-  "normalbelopp": "529",
-  "år": "2023"
+    "country or territory": "Japan",
+    "standard amount": "486",
+    "year": "2024",
+    "code": "JP"
   },
   {
-  "land eller område": "Japan",
-  "normalbelopp": "480",
-  "år": "2023"
+    "country or territory": "Jordan",
+    "standard amount": "950",
+    "year": "2024",
+    "code": "JO"
   },
   {
-  "land eller område": "Jordanien",
-  "normalbelopp": "914",
-  "år": "2023"
+    "country or territory": "Cambodia",
+    "standard amount": "593",
+    "year": "2024",
+    "code": "KH"
   },
   {
-  "land eller område": "Kambodja",
-  "normalbelopp": "573",
-  "år": "2023"
+    "country or territory": "Cameroon",
+    "standard amount": "554",
+    "year": "2024",
+    "code": "CM"
   },
   {
-  "land eller område": "Kamerun",
-  "normalbelopp": "517",
-  "år": "2023"
+    "country or territory": "Canada",
+    "standard amount": "1009",
+    "year": "2024",
+    "code": "CA"
   },
   {
-  "land eller område": "Kanada",
-  "normalbelopp": "844",
-  "år": "2023"
+    "country or territory": "Kazakhstan",
+    "standard amount": "378",
+    "year": "2024",
+    "code": "KZ"
   },
   {
-  "land eller område": "Kazakstan",
-  "normalbelopp": "261",
-  "år": "2023"
+    "country or territory": "Kenya",
+    "standard amount": "435",
+    "year": "2024",
+    "code": "KE"
   },
   {
-  "land eller område": "Kenya",
-  "normalbelopp": "502",
-  "år": "2023"
+    "country or territory": "China",
+    "standard amount": "688",
+    "year": "2024",
+    "code": "CN"
   },
   {
-  "land eller område": "Kina",
-  "normalbelopp": "688",
-  "år": "2023"
+    "country or territory": "Kyrgyzstan",
+    "standard amount": "290",
+    "year": "2024",
+    "code": "KG"
   },
   {
-  "land eller område": "Kirgizistan",
-  "normalbelopp": "260",
-  "år": "2023"
+    "country or territory": "Republic of the Congo",
+    "standard amount": "680",
+    "year": "2024",
+    "code": "CG"
   },
   {
-  "land eller område": "Kongo (Brazzaville)",
-  "normalbelopp": "576",
-  "år": "2023"
+    "country or territory": "Democratic Republic of the Congo",
+    "standard amount": "697",
+    "year": "2024",
+    "code": "CD"
   },
   {
-  "land eller område": "Kongo (Demokratiska Republiken)",
-  "normalbelopp": "808",
-  "år": "2023"
+    "country or territory": "Kosovo",
+    "standard amount": "290",
+    "year": "2024",
+    "code": "XK"
   },
   {
-  "land eller område": "Kosovo",
-  "normalbelopp": "274",
-  "år": "2023"
+    "country or territory": "Croatia",
+    "standard amount": "510",
+    "year": "2024",
+    "code": "HR"
   },
   {
-  "land eller område": "Kroatien",
-  "normalbelopp": "472",
-  "år": "2023"
+    "country or territory": "Cuba",
+    "standard amount": "373",
+    "year": "2024",
+    "code": "CU"
   },
   {
-  "land eller område": "Kuba",
-  "normalbelopp": "613",
-  "år": "2023"
+    "country or territory": "Kuwait",
+    "standard amount": "928",
+    "year": "2024",
+    "code": "KW"
   },
   {
-  "land eller område": "Kuwait",
-  "normalbelopp": "899",
-  "år": "2023"
+    "country or territory": "Laos",
+    "standard amount": "290",
+    "year": "2024",
+    "code": "LA"
   },
   {
-  "land eller område": "Laos",
-  "normalbelopp": "260",
-  "år": "2023"
+    "country or territory": "Latvia",
+    "standard amount": "687",
+    "year": "2024",
+    "code": "LV"
   },
   {
-  "land eller område": "Lettland",
-  "normalbelopp": "603",
-  "år": "2023"
+    "country or territory": "Liberia",
+    "standard amount": "752",
+    "year": "2024",
+    "code": "LR"
   },
   {
-  "land eller område": "Liberia",
-  "normalbelopp": "784",
-  "år": "2023"
+    "country or territory": "Libya",
+    "standard amount": "290",
+    "year": "2024",
+    "code": "LY"
   },
   {
-  "land eller område": "Libyen",
-  "normalbelopp": "260",
-  "år": "2023"
+    "country or territory": "Liechtenstein",
+    "standard amount": "1147",
+    "year": "2024",
+    "code": "LI"
   },
   {
-  "land eller område": "Liechtenstein",
-  "normalbelopp": "1032",
-  "år": "2023"
+    "country or territory": "Lithuania",
+    "standard amount": "599",
+    "year": "2024",
+    "code": "LT"
   },
   {
-  "land eller område": "Litauen",
-  "normalbelopp": "497",
-  "år": "2023"
+    "country or territory": "Luxembourg",
+    "standard amount": "977",
+    "year": "2024",
+    "code": "LU"
   },
   {
-  "land eller område": "Luxemburg",
-  "normalbelopp": "847",
-  "år": "2023"
+    "country or territory": "Macao",
+    "standard amount": "688",
+    "year": "2024",
+    "code": ""
   },
   {
-  "land eller område": "Macao",
-  "normalbelopp": "688",
-  "år": "2023"
+    "country or territory": "Madagascar",
+    "standard amount": "290",
+    "year": "2024",
+    "code": "MG"
   },
   {
-  "land eller område": "Madagaskar",
-  "normalbelopp": "260",
-  "år": "2023"
+    "country or territory": "Malawi",
+    "standard amount": "403",
+    "year": "2024",
+    "code": "MW"
   },
   {
-  "land eller område": "Makedonien",
-  "normalbelopp": "305",
-  "år": "2023"
+    "country or territory": "Malaysia",
+    "standard amount": "319",
+    "year": "2024",
+    "code": "MY"
   },
   {
-  "land eller område": "Malawi",
-  "normalbelopp": "314",
-  "år": "2023"
+    "country or territory": "Maldives",
+    "standard amount": "477",
+    "year": "2024",
+    "code": "MV"
   },
   {
-  "land eller område": "Malaysia",
-  "normalbelopp": "335",
-  "år": "2023"
+    "country or territory": "Mali",
+    "standard amount": "511",
+    "year": "2024",
+    "code": "ML"
   },
   {
-  "land eller område": "Maldiverna",
-  "normalbelopp": "491",
-  "år": "2023"
+    "country or territory": "Malta",
+    "standard amount": "655",
+    "year": "2024",
+    "code": "MT"
   },
   {
-  "land eller område": "Mali",
-  "normalbelopp": "467",
-  "år": "2023"
+    "country or territory": "Morocco",
+    "standard amount": "470",
+    "year": "2024",
+    "code": "MA"
   },
   {
-  "land eller område": "Malta",
-  "normalbelopp": "580",
-  "år": "2023"
+    "country or territory": "Mauritania",
+    "standard amount": "404",
+    "year": "2024",
+    "code": "MR"
   },
   {
-  "land eller område": "Marocko",
-  "normalbelopp": "454",
-  "år": "2023"
+    "country or territory": "Mauritius",
+    "standard amount": "432",
+    "year": "2024",
+    "code": "MU"
   },
   {
-  "land eller område": "Mauretanien",
-  "normalbelopp": "398",
-  "år": "2023"
+    "country or territory": "Mexico",
+    "standard amount": "668",
+    "year": "2024",
+    "code": "MX"
   },
   {
-  "land eller område": "Mauritius",
-  "normalbelopp": "440",
-  "år": "2023"
+    "country or territory": "Micronesia",
+    "standard amount": "619",
+    "year": "2024",
+    "code": "FM"
   },
   {
-  "land eller område": "Mexiko",
-  "normalbelopp": "507",
-  "år": "2023"
+    "country or territory": "Mocambique",
+    "standard amount": "438",
+    "year": "2024",
+    "code": "MZ"
   },
   {
-  "land eller område": "Mikronesien",
-  "normalbelopp": "560",
-  "år": "2023"
+    "country or territory": "Moldova",
+    "standard amount": "389",
+    "year": "2024",
+    "code": "MD"
   },
   {
-  "land eller område": "Mocambique",
-  "normalbelopp": "415",
-  "år": "2023"
+    "country or territory": "Monaco",
+    "standard amount": "1009",
+    "year": "2024",
+    "code": "MC"
   },
   {
-  "land eller område": "Moldavien",
-  "normalbelopp": "337",
-  "år": "2023"
+    "country or territory": "Mongolia",
+    "standard amount": "504",
+    "year": "2024",
+    "code": "MN"
   },
   {
-  "land eller område": "Monaco",
-  "normalbelopp": "898",
-  "år": "2023"
+    "country or territory": "Montenegro",
+    "standard amount": "416",
+    "year": "2024",
+    "code": "ME"
   },
   {
-  "land eller område": "Mongoliet",
-  "normalbelopp": "395",
-  "år": "2023"
+    "country or territory": "Myanmar",
+    "standard amount": "290",
+    "year": "2024",
+    "code": "MM"
   },
   {
-  "land eller område": "Montenegro",
-  "normalbelopp": "392",
-  "år": "2023"
+    "country or territory": "Netherlands",
+    "standard amount": "792",
+    "year": "2024",
+    "code": "NL"
   },
   {
-  "land eller område": "Myanmar",
-  "normalbelopp": "260",
-  "år": "2023"
+    "country or territory": "Netherlands Antilles",
+    "standard amount": "786",
+    "year": "2024",
+    "code": ""
   },
   {
-  "land eller område": "Nederländerna",
-  "normalbelopp": "721",
-  "år": "2023"
+    "country or territory": "Nepal",
+    "standard amount": "312",
+    "year": "2024",
+    "code": "NP"
   },
   {
-  "land eller område": "Nederländska Antillerna",
-  "normalbelopp": "754",
-  "år": "2023"
+    "country or territory": "Nicaragua",
+    "standard amount": "542",
+    "year": "2024",
+    "code": "NI"
   },
   {
-  "land eller område": "Nepal",
-  "normalbelopp": "287",
-  "år": "2023"
+    "country or territory": "Niger",
+    "standard amount": "387",
+    "year": "2024",
+    "code": "NE"
   },
   {
-  "land eller område": "Nicaragua",
-  "normalbelopp": "470",
-  "år": "2023"
+    "country or territory": "Nigeria",
+    "standard amount": "435",
+    "year": "2024",
+    "code": "NG"
   },
   {
-  "land eller område": "Niger",
-  "normalbelopp": "361",
-  "år": "2023"
+    "country or territory": "North Macedonia",
+    "standard amount": "320",
+    "year": "2024",
+    "code": "MK"
   },
   {
-  "land eller område": "Nigeria",
-  "normalbelopp": "663",
-  "år": "2023"
+    "country or territory": "Norway",
+    "standard amount": "1104",
+    "year": "2024",
+    "code": "NO"
   },
   {
-  "land eller område": "Nordmakedonien, f.d. Makedonien",
-  "normalbelopp": "305",
-  "år": "2023"
+    "country or territory": "New Zealand",
+    "standard amount": "656",
+    "year": "2024",
+    "code": "NZ"
   },
   {
-  "land eller område": "Norge",
-  "normalbelopp": "1019",
-  "år": "2023"
+    "country or territory": "Oman",
+    "standard amount": "977",
+    "year": "2024",
+    "code": "OM"
   },
   {
-  "land eller område": "Nya Zeeland",
-  "normalbelopp": "623",
-  "år": "2023"
+    "country or territory": "Pakistan",
+    "standard amount": "290",
+    "year": "2024",
+    "code": "PK"
   },
   {
-  "land eller område": "Oman",
-  "normalbelopp": "915",
-  "år": "2023"
+    "country or territory": "Panama",
+    "standard amount": "779",
+    "year": "2024",
+    "code": "PA"
   },
   {
-  "land eller område": "Pakistan",
-  "normalbelopp": "260",
-  "år": "2023"
+    "country or territory": "Papua Nya Guinea",
+    "standard amount": "662",
+    "year": "2024",
+    "code": "PG"
   },
   {
-  "land eller område": "Panama",
-  "normalbelopp": "682",
-  "år": "2023"
+    "country or territory": "Paraguay",
+    "standard amount": "352",
+    "year": "2024",
+    "code": "PY"
   },
   {
-  "land eller område": "Papua Nya Guinea",
-  "normalbelopp": "634",
-  "år": "2023"
+    "country or territory": "Peru",
+    "standard amount": "504",
+    "year": "2024",
+    "code": "PE"
   },
   {
-  "land eller område": "Paraguay",
-  "normalbelopp": "343",
-  "år": "2023"
+    "country or territory": "Poland",
+    "standard amount": "562",
+    "year": "2024",
+    "code": "PL"
   },
   {
-  "land eller område": "Peru",
-  "normalbelopp": "480",
-  "år": "2023"
+    "country or territory": "Portugal",
+    "standard amount": "613",
+    "year": "2024",
+    "code": "PT"
   },
   {
-  "land eller område": "Polen",
-  "normalbelopp": "457",
-  "år": "2023"
+    "country or territory": "Puerto Rico",
+    "standard amount": "Se USA",
+    "year": "2024",
+    "code": "PR"
   },
   {
-  "land eller område": "Portugal",
-  "normalbelopp": "499",
-  "år": "2023"
+    "country or territory": "Qatar",
+    "standard amount": "967",
+    "year": "2024",
+    "code": "QA"
   },
   {
-  "land eller område": "Puerto Rico",
-  "normalbelopp": "1113",
-  "år": "2023"
+    "country or territory": "Romania",
+    "standard amount": "424",
+    "year": "2024",
+    "code": "RO"
   },
   {
-  "land eller område": "Qatar",
-  "normalbelopp": "897",
-  "år": "2023"
+    "country or territory": "Rwanda",
+    "standard amount": "290",
+    "year": "2024",
+    "code": "RW"
   },
   {
-  "land eller område": "Rumänien",
-  "normalbelopp": "357",
-  "år": "2023"
+    "country or territory": "Russia",
+    "standard amount": "544",
+    "year": "2024",
+    "code": "RU"
   },
   {
-  "land eller område": "Rwanda",
-  "normalbelopp": "331",
-  "år": "2023"
+    "country or territory": "Saint Lucia",
+    "standard amount": "789",
+    "year": "2024",
+    "code": "LC"
   },
   {
-  "land eller område": "Ryssland",
-  "normalbelopp": "727",
-  "år": "2023"
+    "country or territory": "Saint Vincent and the Grenadines",
+    "standard amount": "564",
+    "year": "2024",
+    "code": "VC"
   },
   {
-  "land eller område": "Saint Lucia",
-  "normalbelopp": "681",
-  "år": "2023"
+    "country or territory": "Samoa (Independent State of Samoa)",
+    "standard amount": "649",
+    "year": "2024",
+    "code": "WS"
   },
   {
-  "land eller område": "Saint Vincent och Grenadinerna",
-  "normalbelopp": "590",
-  "år": "2023"
+    "country or territory": "San Marino",
+    "standard amount": "856",
+    "year": "2024",
+    "code": ""
   },
   {
-  "land eller område": "Samoa, Självständiga staten",
-  "normalbelopp": "608",
-  "år": "2023"
+    "country or territory": "Saudi Arabia",
+    "standard amount": "1220",
+    "year": "2024",
+    "code": "SA"
   },
   {
-  "land eller område": "San Marino",
-  "normalbelopp": "701",
-  "år": "2023"
+    "country or territory": "Switzerland",
+    "standard amount": "1365",
+    "year": "2024",
+    "code": "CH"
   },
   {
-  "land eller område": "Saudiarabien",
-  "normalbelopp": "1008",
-  "år": "2023"
+    "country or territory": "Senegal",
+    "standard amount": "652",
+    "year": "2024",
+    "code": "SN"
   },
   {
-  "land eller område": "Schweiz",
-  "normalbelopp": "1149",
-  "år": "2023"
+    "country or territory": "Serbia",
+    "standard amount": "453",
+    "year": "2024",
+    "code": "RS"
   },
   {
-  "land eller område": "Senegal",
-  "normalbelopp": "561",
-  "år": "2023"
+    "country or territory": "Seychelles",
+    "standard amount": "1092",
+    "year": "2024",
+    "code": "SC"
   },
   {
-  "land eller område": "Serbien",
-  "normalbelopp": "390",
-  "år": "2023"
+    "country or territory": "Sierra Leone",
+    "standard amount": "290",
+    "year": "2024",
+    "code": "SL"
   },
   {
-  "land eller område": "Seychellerna",
-  "normalbelopp": "1058",
-  "år": "2023"
+    "country or territory": "Singapore",
+    "standard amount": "959",
+    "year": "2024",
+    "code": "SG"
   },
   {
-  "land eller område": "Sierra Leone",
-  "normalbelopp": "262",
-  "år": "2023"
+    "country or territory": "Slovakia",
+    "standard amount": "691",
+    "year": "2024",
+    "code": "SK"
   },
   {
-  "land eller område": "Singapore",
-  "normalbelopp": "862",
-  "år": "2023"
+    "country or territory": "Slovenien",
+    "standard amount": "592",
+    "year": "2024",
+    "code": "SI"
   },
   {
-  "land eller område": "Slovakien",
-  "normalbelopp": "548",
-  "år": "2023"
+    "country or territory": "Spain",
+    "standard amount": "691",
+    "year": "2024",
+    "code": "ES"
   },
   {
-  "land eller område": "Slovenien",
-  "normalbelopp": "539",
-  "år": "2023"
+    "country or territory": "Sri Lanka",
+    "standard amount": "471",
+    "year": "2024",
+    "code": "LK"
   },
   {
-  "land eller område": "Spanien",
-  "normalbelopp": "646",
-  "år": "2023"
+    "country or territory": "United Kingdom and Northern Ireland (UK)",
+    "standard amount": "914",
+    "year": "2024",
+    "code": "GB"
   },
   {
-  "land eller område": "Sri Lanka",
-  "normalbelopp": "260",
-  "år": "2023"
+    "country or territory": "Sudan",
+    "standard amount": "701",
+    "year": "2024",
+    "code": "SD"
   },
   {
-  "land eller område": "Storbritannien och Nordirland",
-  "normalbelopp": "779",
-  "år": "2023"
+    "country or territory": "Eswatini (Swaziland)",
+    "standard amount": "290",
+    "year": "2024",
+    "code": ""
   },
   {
-  "land eller område": "Sudan",
-  "normalbelopp": "522",
-  "år": "2023"
+    "country or territory": "South Africa",
+    "standard amount": "318",
+    "year": "2024",
+    "code": "ZA"
   },
   {
-  "land eller område": "Swaziland",
-  "normalbelopp": "260",
-  "år": "2023"
+    "country or territory": "South Korea",
+    "standard amount": "681",
+    "year": "2024",
+    "code": "KR"
   },
   {
-  "land eller område": "Sydafrika",
-  "normalbelopp": "289",
-  "år": "2023"
+    "country or territory": "Taiwan",
+    "standard amount": "615",
+    "year": "2024",
+    "code": "TW"
   },
   {
-  "land eller område": "Sydkorea",
-  "normalbelopp": "636",
-  "år": "2023"
+    "country or territory": "Tanzania",
+    "standard amount": "413",
+    "year": "2024",
+    "code": "TZ"
   },
   {
-  "land eller område": "Taiwan",
-  "normalbelopp": "631",
-  "år": "2023"
+    "country or territory": "Thailand",
+    "standard amount": "563",
+    "year": "2024",
+    "code": "TH"
   },
   {
-  "land eller område": "Tanzania",
-  "normalbelopp": "462",
-  "år": "2023"
+    "country or territory": "Czech Republic",
+    "standard amount": "735",
+    "year": "2024",
+    "code": "CZ"
   },
   {
-  "land eller område": "Thailand",
-  "normalbelopp": "546",
-  "år": "2023"
+    "country or territory": "Togo",
+    "standard amount": "567",
+    "year": "2024",
+    "code": "TG"
   },
   {
-  "land eller område": "Tjeckien",
-  "normalbelopp": "529",
-  "år": "2023"
+    "country or territory": "Tonga",
+    "standard amount": "519",
+    "year": "2024",
+    "code": "TO"
   },
   {
-  "land eller område": "Togo",
-  "normalbelopp": "530",
-  "år": "2023"
+    "country or territory": "Trinidad and Tobago",
+    "standard amount": "960",
+    "year": "2024",
+    "code": "TT"
   },
   {
-  "land eller område": "Tonga",
-  "normalbelopp": "482",
-  "år": "2023"
+    "country or territory": "Tunisien",
+    "standard amount": "290",
+    "year": "2024",
+    "code": "TN"
   },
   {
-  "land eller område": "Trinidad och Tobago",
-  "normalbelopp": "927",
-  "år": "2023"
+    "country or territory": "Turkey",
+    "standard amount": "290",
+    "year": "2024",
+    "code": "TR"
   },
   {
-  "land eller område": "Tunisien",
-  "normalbelopp": "260",
-  "år": "2023"
+    "country or territory": "Turkmenistan",
+    "standard amount": "1649",
+    "year": "2024",
+    "code": "TM"
   },
   {
-  "land eller område": "Turkiet",
-  "normalbelopp": "260",
-  "år": "2023"
+    "country or territory": "Germany",
+    "standard amount": "800",
+    "year": "2024",
+    "code": "DE"
   },
   {
-  "land eller område": "Turkmenistan",
-  "normalbelopp": "1533",
-  "år": "2023"
+    "country or territory": "Uganda",
+    "standard amount": "422",
+    "year": "2024",
+    "code": "UG"
   },
   {
-  "land eller område": "Tyskland",
-  "normalbelopp": "718",
-  "år": "2023"
+    "country or territory": "Ukraine",
+    "standard amount": "393",
+    "year": "2024",
+    "code": "UA"
   },
   {
-  "land eller område": "Uganda",
-  "normalbelopp": "415",
-  "år": "2023"
+    "country or territory": "Hungary",
+    "standard amount": "666",
+    "year": "2024",
+    "code": "HU"
   },
   {
-  "land eller område": "Ukraina",
-  "normalbelopp": "331",
-  "år": "2023"
+    "country or territory": "Uruguay",
+    "standard amount": "624",
+    "year": "2024",
+    "code": "UY"
   },
   {
-  "land eller område": "Ungern",
-  "normalbelopp": "385",
-  "år": "2023"
+    "country or territory": "USA",
+    "standard amount": "1168",
+    "year": "2024",
+    "code": "US"
   },
   {
-  "land eller område": "Uruguay",
-  "normalbelopp": "547",
-  "år": "2023"
+    "country or territory": "Uzbekistan",
+    "standard amount": "290",
+    "year": "2024",
+    "code": "UZ"
   },
   {
-  "land eller område": "USA",
-  "normalbelopp": "1113",
-  "år": "2023"
+    "country or territory": "Vanuatu",
+    "standard amount": "743",
+    "year": "2024",
+    "code": "VU"
   },
   {
-  "land eller område": "Uzbekistan",
-  "normalbelopp": "260",
-  "år": "2023"
+    "country or territory": "Venezuela",
+    "standard amount": "420",
+    "year": "2024",
+    "code": "VE"
   },
   {
-  "land eller område": "Vanuatu",
-  "normalbelopp": "731",
-  "år": "2023"
+    "country or territory": "Vietnam",
+    "standard amount": "433",
+    "year": "2024",
+    "code": "VN"
   },
   {
-  "land eller område": "Venezuela",
-  "normalbelopp": "367",
-  "år": "2023"
+    "country or territory": "Zambia",
+    "standard amount": "425",
+    "year": "2024",
+    "code": "ZM"
   },
   {
-  "land eller område": "Vietnam",
-  "normalbelopp": "411",
-  "år": "2023"
+    "country or territory": "Zimbabwe",
+    "standard amount": "660",
+    "year": "2024",
+    "code": "ZW"
   },
   {
-  "land eller område": "Vitryssland",
-  "normalbelopp": "317",
-  "år": "2023"
+    "country or territory": "Hungary",
+    "standard amount": "746",
+    "year": "2024",
+    "code": "AT"
   },
   {
-  "land eller område": "Zambia",
-  "normalbelopp": "630",
-  "år": "2023"
+    "country or territory": "Other countries and territories",
+    "standard amount": "493",
+    "year": "2024",
+    "code": ""
   },
   {
-  "land eller område": "Zimbabwe",
-  "normalbelopp": "260",
-  "år": "2023"
+    "country or territory": "Albania",
+    "standard amount": "345",
+    "year": "2025",
+    "code": "AL"
   },
   {
-  "land eller område": "Österrike",
-  "normalbelopp": "669",
-  "år": "2023"
+    "country or territory": "Algeria",
+    "standard amount": "376",
+    "year": "2025",
+    "code": "DZ"
   },
   {
-  "land eller område": "Övriga länder och områden",
-  "normalbelopp": "456",
-  "år": "2023"
+    "country or territory": "American Samoa",
+    "standard amount": "1020",
+    "year": "2025",
+    "code": "AS"
   },
   {
-  "land eller område": "Albanien",
-  "normalbelopp": "322",
-  "år": "2024"
+    "country or territory": "Angola",
+    "standard amount": "502",
+    "year": "2025",
+    "code": "AO"
   },
   {
-  "land eller område": "Algeriet",
-  "normalbelopp": "388",
-  "år": "2024"
+    "country or territory": "Anguilla",
+    "standard amount": "1170",
+    "year": "2025",
+    "code": "AI"
   },
   {
-  "land eller område": "Angola",
-  "normalbelopp": "530",
-  "år": "2024"
+    "country or territory": "Antigua and Barbuda",
+    "standard amount": "829",
+    "year": "2025",
+    "code": "AG"
   },
   {
-  "land eller område": "Antigua och Barbuda",
-  "normalbelopp": "834",
-  "år": "2024"
+    "country or territory": "Argentina",
+    "standard amount": "415",
+    "year": "2025",
+    "code": "AR"
   },
   {
-  "land eller område": "Argentina",
-  "normalbelopp": "290",
-  "år": "2024"
+    "country or territory": "Armenien",
+    "standard amount": "521",
+    "year": "2025",
+    "code": "AM"
   },
   {
-  "land eller område": "Armenien",
-  "normalbelopp": "557",
-  "år": "2024"
+    "country or territory": "Aruba",
+    "standard amount": "925",
+    "year": "2025",
+    "code": "AW"
   },
   {
-  "land eller område": "Australien",
-  "normalbelopp": "817",
-  "år": "2024"
+    "country or territory": "Australia",
+    "standard amount": "833",
+    "year": "2025",
+    "code": "AU"
   },
   {
-  "land eller område": "Azerbajdzjan",
-  "normalbelopp": "471",
-  "år": "2024"
+    "country or territory": "Azerbaijan",
+    "standard amount": "473",
+    "year": "2025",
+    "code": "AZ"
   },
   {
-  "land eller område": "Bahamas",
-  "normalbelopp": "1267",
-  "år": "2024"
+    "country or territory": "Bahamas",
+    "standard amount": "1291",
+    "year": "2025",
+    "code": "BS"
   },
   {
-  "land eller område": "Bahrain",
-  "normalbelopp": "994",
-  "år": "2024"
+    "country or territory": "Bahrain",
+    "standard amount": "1011",
+    "year": "2025",
+    "code": "BH"
   },
   {
-  "land eller område": "Bangladesh",
-  "normalbelopp": "499",
-  "år": "2024"
+    "country or territory": "Bangladesh",
+    "standard amount": "424",
+    "year": "2025",
+    "code": "BD"
   },
   {
-  "land eller område": "Barbados",
-  "normalbelopp": "1125",
-  "år": "2024"
+    "country or territory": "Barbados",
+    "standard amount": "1067",
+    "year": "2025",
+    "code": "BB"
   },
   {
-  "land eller område": "Belarus",
-  "normalbelopp": "290",
-  "år": "2024"
+    "country or territory": "Belarus",
+    "standard amount": "290",
+    "year": "2025",
+    "code": "BY"
   },
   {
-  "land eller område": "Belgien",
-  "normalbelopp": "894",
-  "år": "2024"
+    "country or territory": "Belgium",
+    "standard amount": "924",
+    "year": "2025",
+    "code": "BE"
   },
   {
-  "land eller område": "Belize",
-  "normalbelopp": "681",
-  "år": "2024"
+    "country or territory": "Belize",
+    "standard amount": "683",
+    "year": "2025",
+    "code": "BZ"
   },
   {
-  "land eller område": "Benin",
-  "normalbelopp": "600",
-  "år": "2024"
+    "country or territory": "Benin",
+    "standard amount": "592",
+    "year": "2025",
+    "code": "BJ"
   },
   {
-  "land eller område": "Bolivia",
-  "normalbelopp": "432",
-  "år": "2024"
+    "country or territory": "Bermuda",
+    "standard amount": "1361",
+    "year": "2025",
+    "code": "BM"
   },
   {
-  "land eller område": "Bosnien-Hercegovina",
-  "normalbelopp": "377",
-  "år": "2024"
+    "country or territory": "Bolivia",
+    "standard amount": "435",
+    "year": "2025",
+    "code": "BO"
   },
   {
-  "land eller område": "Botswana",
-  "normalbelopp": "407",
-  "år": "2024"
+    "country or territory": "Bonaire",
+    "standard amount": "824",
+    "year": "2025",
+    "code": "BQ"
   },
   {
-  "land eller område": "Brasilien",
-  "normalbelopp": "505",
-  "år": "2024"
+    "country or territory": "Bosnia and Herzegovina",
+    "standard amount": "374",
+    "year": "2025",
+    "code": "BA"
   },
   {
-  "land eller område": "Brunei Darussalam",
-  "normalbelopp": "551",
-  "år": "2024"
+    "country or territory": "Botswana",
+    "standard amount": "423",
+    "year": "2025",
+    "code": "BW"
   },
   {
-  "land eller område": "Bulgarien",
-  "normalbelopp": "431",
-  "år": "2024"
+    "country or territory": "Brazil",
+    "standard amount": "402",
+    "year": "2025",
+    "code": "BR"
   },
   {
-  "land eller område": "Burkina Faso",
-  "normalbelopp": "478",
-  "år": "2024"
+    "country or territory": "Brunei Darussalam",
+    "standard amount": "523",
+    "year": "2025",
+    "code": "BN"
   },
   {
-  "land eller område": "Burma",
-  "normalbelopp": "290",
-  "år": "2024"
+    "country or territory": "Bulgaria",
+    "standard amount": "449",
+    "year": "2025",
+    "code": "BG"
   },
   {
-  "land eller område": "Centralafrikanska republiken",
-  "normalbelopp": "501",
-  "år": "2024"
+    "country or territory": "Burkina Faso",
+    "standard amount": "460",
+    "year": "2025",
+    "code": "BF"
   },
   {
-  "land eller område": "Chile",
-  "normalbelopp": "575",
-  "år": "2024"
+    "country or territory": "Burundi",
+    "standard amount": "389",
+    "year": "2025",
+    "code": "BI"
   },
   {
-  "land eller område": "Colombia",
-  "normalbelopp": "343",
-  "år": "2024"
+    "country or territory": "Burma",
+    "standard amount": "336",
+    "year": "2025",
+    "code": ""
   },
   {
-  "land eller område": "Costa Rica",
-  "normalbelopp": "772",
-  "år": "2024"
+    "country or territory": "Cayman Islands",
+    "standard amount": "993",
+    "year": "2025",
+    "code": "KY"
   },
   {
-  "land eller område": "Cypern",
-  "normalbelopp": "682",
-  "år": "2024"
+    "country or territory": "Central African Republic",
+    "standard amount": "488",
+    "year": "2025",
+    "code": "CF"
   },
   {
-  "land eller område": "Danmark",
-  "normalbelopp": "1274",
-  "år": "2024"
+    "country or territory": "Chile",
+    "standard amount": "521",
+    "year": "2025",
+    "code": "CL"
   },
   {
-  "land eller område": "Djibouti",
-  "normalbelopp": "697",
-  "år": "2024"
+    "country or territory": "Colombia",
+    "standard amount": "343",
+    "year": "2025",
+    "code": "CO"
   },
   {
-  "land eller område": "Ecuador",
-  "normalbelopp": "703",
-  "år": "2024"
+    "country or territory": "Cook Islands",
+    "standard amount": "674",
+    "year": "2025",
+    "code": "CK"
   },
   {
-  "land eller område": "Egypten",
-  "normalbelopp": "290",
-  "år": "2024"
+    "country or territory": "Costa Rica",
+    "standard amount": "770",
+    "year": "2025",
+    "code": "CR"
   },
   {
-  "land eller område": "Elfenbenskusten",
-  "normalbelopp": "766",
-  "år": "2024"
+    "country or territory": "Curacao",
+    "standard amount": "740",
+    "year": "2025",
+    "code": "CW"
   },
   {
-  "land eller område": "El Salvador",
-  "normalbelopp": "574",
-  "år": "2024"
+    "country or territory": "Cyprus",
+    "standard amount": "650",
+    "year": "2025",
+    "code": "CY"
   },
   {
-  "land eller område": "Eritrea",
-  "normalbelopp": "504",
-  "år": "2024"
+    "country or territory": "Denmark",
+    "standard amount": "1268",
+    "year": "2025",
+    "code": "DK"
   },
   {
-  "land eller område": "Estland",
-  "normalbelopp": "611",
-  "år": "2024"
+    "country or territory": "Djibouti",
+    "standard amount": "699",
+    "year": "2025",
+    "code": "DJ"
   },
   {
-  "land eller område": "Eswatini",
-  "normalbelopp": "290",
-  "år": "2024"
+    "country or territory": "Dominican Republic",
+    "standard amount": "444",
+    "year": "2025",
+    "code": "DO"
   },
   {
-  "land eller område": "Etiopien",
-  "normalbelopp": "310",
-  "år": "2024"
+    "country or territory": "Ecuador",
+    "standard amount": "660",
+    "year": "2025",
+    "code": "EC"
   },
   {
-  "land eller område": "Filippinerna",
-  "normalbelopp": "563",
-  "år": "2024"
+    "country or territory": "Egypt",
+    "standard amount": "290",
+    "year": "2025",
+    "code": "EG"
   },
   {
-  "land eller område": "Finland",
-  "normalbelopp": "948",
-  "år": "2024"
+    "country or territory": "Equatorial Guinea",
+    "standard amount": "701",
+    "year": "2025",
+    "code": "GQ"
   },
   {
-  "land eller område": "Frankrike",
-  "normalbelopp": "935",
-  "år": "2024"
+    "country or territory": "Ivory Coast (Côte d’Ivoire)",
+    "standard amount": "757",
+    "year": "2025",
+    "code": "CI"
   },
   {
-  "land eller område": "Förenade Arabemiraten",
-  "normalbelopp": "1060",
-  "år": "2024"
+    "country or territory": "El Salvador",
+    "standard amount": "537",
+    "year": "2025",
+    "code": "SV"
   },
   {
-  "land eller område": "Gabon",
-  "normalbelopp": "731",
-  "år": "2024"
+    "country or territory": "Eritrea",
+    "standard amount": "467",
+    "year": "2025",
+    "code": "ER"
   },
   {
-  "land eller område": "Gambia",
-  "normalbelopp": "321",
-  "år": "2024"
+    "country or territory": "Estonia",
+    "standard amount": "731",
+    "year": "2025",
+    "code": "EE"
   },
   {
-  "land eller område": "Georgien",
-  "normalbelopp": "381",
-  "år": "2024"
+    "country or territory": "Eswatini",
+    "standard amount": "310",
+    "year": "2025",
+    "code": "SZ"
   },
   {
-  "land eller område": "Ghana",
-  "normalbelopp": "514",
-  "år": "2024"
+    "country or territory": "Ethiopia",
+    "standard amount": "290",
+    "year": "2025",
+    "code": "ET"
   },
   {
-  "land eller område": "Grekland",
-  "normalbelopp": "728",
-  "år": "2024"
+    "country or territory": "Fiji",
+    "standard amount": "491",
+    "year": "2025",
+    "code": "FJ"
   },
   {
-  "land eller område": "Grenada",
-  "normalbelopp": "706",
-  "år": "2024"
+    "country or territory": "Philippines",
+    "standard amount": "537",
+    "year": "2025",
+    "code": "PH"
   },
   {
-  "land eller område": "Grönland",
-  "normalbelopp": "1274",
-  "år": "2024"
+    "country or territory": "Finland",
+    "standard amount": "952",
+    "year": "2025",
+    "code": "FI"
   },
   {
-  "land eller område": "Guinea",
-  "normalbelopp": "683",
-  "år": "2024"
+    "country or territory": "France",
+    "standard amount": "910",
+    "year": "2025",
+    "code": "FR"
   },
   {
-  "land eller område": "Guyana",
-  "normalbelopp": "653",
-  "år": "2024"
+    "country or territory": "Franska Guyana",
+    "standard amount": "765",
+    "year": "2025",
+    "code": "GF"
   },
   {
-  "land eller område": "Haiti",
-  "normalbelopp": "789",
-  "år": "2024"
+    "country or territory": "Franska Polynesien",
+    "standard amount": "986",
+    "year": "2025",
+    "code": "PF"
   },
   {
-  "land eller område": "Honduras",
-  "normalbelopp": "530",
-  "år": "2024"
+    "country or territory": "United Arab Emirates (UAE)",
+    "standard amount": "1012",
+    "year": "2025",
+    "code": "AE"
   },
   {
-  "land eller område": "Hong Kong",
-  "normalbelopp": "688",
-  "år": "2024"
+    "country or territory": "Gabon",
+    "standard amount": "706",
+    "year": "2025",
+    "code": "GA"
   },
   {
-  "land eller område": "Indien",
-  "normalbelopp": "377",
-  "år": "2024"
+    "country or territory": "Gambia",
+    "standard amount": "337",
+    "year": "2025",
+    "code": "GM"
   },
   {
-  "land eller område": "Indonesien",
-  "normalbelopp": "488",
-  "år": "2024"
+    "country or territory": "Georgia",
+    "standard amount": "370",
+    "year": "2025",
+    "code": "GE"
   },
   {
-  "land eller område": "Irak",
-  "normalbelopp": "730",
-  "år": "2024"
+    "country or territory": "Ghana",
+    "standard amount": "335",
+    "year": "2025",
+    "code": "GH"
   },
   {
-  "land eller område": "Iran",
-  "normalbelopp": "493",
-  "år": "2024"
+    "country or territory": "Gibraltar",
+    "standard amount": "702",
+    "year": "2025",
+    "code": "GI"
   },
   {
-  "land eller område": "Irland",
-  "normalbelopp": "1011",
-  "år": "2024"
+    "country or territory": "Greece",
+    "standard amount": "746",
+    "year": "2025",
+    "code": "GR"
   },
   {
-  "land eller område": "Island",
-  "normalbelopp": "1064",
-  "år": "2024"
+    "country or territory": "Grenada",
+    "standard amount": "677",
+    "year": "2025",
+    "code": "GD"
   },
   {
-  "land eller område": "Israel",
-  "normalbelopp": "921",
-  "år": "2024"
+    "country or territory": "Greenland",
+    "standard amount": "1268",
+    "year": "2025",
+    "code": "GL"
   },
   {
-  "land eller område": "Italien",
-  "normalbelopp": "856",
-  "år": "2024"
+    "country or territory": "Guadeloupe",
+    "standard amount": "772",
+    "year": "2025",
+    "code": "GP"
   },
   {
-  "land eller område": "Jamaica",
-  "normalbelopp": "506",
-  "år": "2024"
+    "country or territory": "Guam",
+    "standard amount": "868",
+    "year": "2025",
+    "code": "GU"
   },
   {
-  "land eller område": "Japan",
-  "normalbelopp": "486",
-  "år": "2024"
+    "country or territory": "Guatemala",
+    "standard amount": "650",
+    "year": "2025",
+    "code": "GT"
   },
   {
-  "land eller område": "Jordanien",
-  "normalbelopp": "950",
-  "år": "2024"
+    "country or territory": "Guinea",
+    "standard amount": "658",
+    "year": "2025",
+    "code": "GN"
   },
   {
-  "land eller område": "Kambodja",
-  "normalbelopp": "593",
-  "år": "2024"
+    "country or territory": "Guyana",
+    "standard amount": "738",
+    "year": "2025",
+    "code": "GY"
   },
   {
-  "land eller område": "Kamerun",
-  "normalbelopp": "554",
-  "år": "2024"
+    "country or territory": "Haiti",
+    "standard amount": "838",
+    "year": "2025",
+    "code": "HT"
   },
   {
-  "land eller område": "Kanada",
-  "normalbelopp": "1009",
-  "år": "2024"
+    "country or territory": "Honduras",
+    "standard amount": "511",
+    "year": "2025",
+    "code": "HN"
   },
   {
-  "land eller område": "Kazakstan",
-  "normalbelopp": "378",
-  "år": "2024"
+    "country or territory": "Hong Kong",
+    "standard amount": "1018",
+    "year": "2025",
+    "code": "HK"
   },
   {
-  "land eller område": "Kenya",
-  "normalbelopp": "435",
-  "år": "2024"
+    "country or territory": "India",
+    "standard amount": "347",
+    "year": "2025",
+    "code": "IN"
   },
   {
-  "land eller område": "Kina",
-  "normalbelopp": "688",
-  "år": "2024"
+    "country or territory": "Indonesia",
+    "standard amount": "518",
+    "year": "2025",
+    "code": "ID"
   },
   {
-  "land eller område": "Kirgizistan",
-  "normalbelopp": "290",
-  "år": "2024"
+    "country or territory": "Iraq",
+    "standard amount": "676",
+    "year": "2025",
+    "code": "IQ"
   },
   {
-  "land eller område": "Kongo (Brazzaville)",
-  "normalbelopp": "680",
-  "år": "2024"
+    "country or territory": "Ireland",
+    "standard amount": "1099",
+    "year": "2025",
+    "code": "IE"
   },
   {
-  "land eller område": "Kongo (Demokratiska Republiken)",
-  "normalbelopp": "697",
-  "år": "2024"
+    "country or territory": "Iceland",
+    "standard amount": "1167",
+    "year": "2025",
+    "code": "IS"
   },
   {
-  "land eller område": "Kosovo",
-  "normalbelopp": "290",
-  "år": "2024"
+    "country or territory": "Israel",
+    "standard amount": "947",
+    "year": "2025",
+    "code": "IL"
   },
   {
-  "land eller område": "Kroatien",
-  "normalbelopp": "510",
-  "år": "2024"
+    "country or territory": "Italy",
+    "standard amount": "828",
+    "year": "2025",
+    "code": "IT"
   },
   {
-  "land eller område": "Kuba",
-  "normalbelopp": "373",
-  "år": "2024"
+    "country or territory": "Jamaica",
+    "standard amount": "494",
+    "year": "2025",
+    "code": "JM"
   },
   {
-  "land eller område": "Kuwait",
-  "normalbelopp": "928",
-  "år": "2024"
+    "country or territory": "Japan",
+    "standard amount": "454",
+    "year": "2025",
+    "code": "JP"
   },
   {
-  "land eller område": "Laos",
-  "normalbelopp": "290",
-  "år": "2024"
+    "country or territory": "Jordan",
+    "standard amount": "925",
+    "year": "2025",
+    "code": "JO"
   },
   {
-  "land eller område": "Lettland",
-  "normalbelopp": "687",
-  "år": "2024"
+    "country or territory": "Cambodia",
+    "standard amount": "579",
+    "year": "2025",
+    "code": "KH"
   },
   {
-  "land eller område": "Libanon",
-  "normalbelopp": "493",
-  "år": "2024"
+    "country or territory": "Cameroon",
+    "standard amount": "546",
+    "year": "2025",
+    "code": "CM"
   },
   {
-  "land eller område": "Liberia",
-  "normalbelopp": "752",
-  "år": "2024"
+    "country or territory": "Canada",
+    "standard amount": "951",
+    "year": "2025",
+    "code": "CA"
   },
   {
-  "land eller område": "Libyen",
-  "normalbelopp": "290",
-  "år": "2024"
+    "country or territory": "Kazakhstan",
+    "standard amount": "383",
+    "year": "2025",
+    "code": "KZ"
   },
   {
-  "land eller område": "Liechtenstein",
-  "normalbelopp": "1147",
-  "år": "2024"
+    "country or territory": "Kenya",
+    "standard amount": "518",
+    "year": "2025",
+    "code": "KE"
   },
   {
-  "land eller område": "Litauen",
-  "normalbelopp": "599",
-  "år": "2024"
+    "country or territory": "China",
+    "standard amount": "672",
+    "year": "2025",
+    "code": "CN"
   },
   {
-  "land eller område": "Luxemburg",
-  "normalbelopp": "977",
-  "år": "2024"
+    "country or territory": "Kyrgyzstan",
+    "standard amount": "290",
+    "year": "2025",
+    "code": "KG"
   },
   {
-  "land eller område": "Macao",
-  "normalbelopp": "688",
-  "år": "2024"
+    "country or territory": "Kiribati",
+    "standard amount": "367",
+    "year": "2025",
+    "code": "KI"
   },
   {
-  "land eller område": "Madagaskar",
-  "normalbelopp": "290",
-  "år": "2024"
+    "country or territory": "Republic of the Congo",
+    "standard amount": "741",
+    "year": "2025",
+    "code": "CG"
   },
   {
-  "land eller område": "Makedonien",
-  "normalbelopp": "320",
-  "år": "2024"
+    "country or territory": "Democratic Republic of the Congo",
+    "standard amount": "650",
+    "year": "2025",
+    "code": "CD"
   },
   {
-  "land eller område": "Malawi",
-  "normalbelopp": "403",
-  "år": "2024"
+    "country or territory": "Kosovo",
+    "standard amount": "290",
+    "year": "2025",
+    "code": "XK"
   },
   {
-  "land eller område": "Malaysia",
-  "normalbelopp": "319",
-  "år": "2024"
+    "country or territory": "Croatia",
+    "standard amount": "558",
+    "year": "2025",
+    "code": "HR"
   },
   {
-  "land eller område": "Maldiverna",
-  "normalbelopp": "477",
-  "år": "2024"
+    "country or territory": "Cuba",
+    "standard amount": "478",
+    "year": "2025",
+    "code": "CU"
   },
   {
-  "land eller område": "Mali",
-  "normalbelopp": "511",
-  "år": "2024"
+    "country or territory": "Kuwait",
+    "standard amount": "882",
+    "year": "2025",
+    "code": "KW"
   },
   {
-  "land eller område": "Malta",
-  "normalbelopp": "655",
-  "år": "2024"
+    "country or territory": "Laos",
+    "standard amount": "290",
+    "year": "2025",
+    "code": "LA"
   },
   {
-  "land eller område": "Marocko",
-  "normalbelopp": "470",
-  "år": "2024"
+    "country or territory": "Lesotho",
+    "standard amount": "290",
+    "year": "2025",
+    "code": "LS"
   },
   {
-  "land eller område": "Mauretanien",
-  "normalbelopp": "404",
-  "år": "2024"
+    "country or territory": "Latvia",
+    "standard amount": "804",
+    "year": "2025",
+    "code": "LV"
   },
   {
-  "land eller område": "Mauritius",
-  "normalbelopp": "432",
-  "år": "2024"
+    "country or territory": "Liberia",
+    "standard amount": "711",
+    "year": "2025",
+    "code": "LR"
   },
   {
-  "land eller område": "Mexiko",
-  "normalbelopp": "668",
-  "år": "2024"
+    "country or territory": "Libya",
+    "standard amount": "290",
+    "year": "2025",
+    "code": "LY"
   },
   {
-  "land eller område": "Mikronesien",
-  "normalbelopp": "619",
-  "år": "2024"
+    "country or territory": "Liechtenstein",
+    "standard amount": "1180",
+    "year": "2025",
+    "code": "LI"
   },
   {
-  "land eller område": "Mocambique",
-  "normalbelopp": "438",
-  "år": "2024"
+    "country or territory": "Lithuania",
+    "standard amount": "671",
+    "year": "2025",
+    "code": "LT"
   },
   {
-  "land eller område": "Moldavien",
-  "normalbelopp": "389",
-  "år": "2024"
+    "country or territory": "Luxembourg",
+    "standard amount": "1022",
+    "year": "2025",
+    "code": "LU"
   },
   {
-  "land eller område": "Monaco",
-  "normalbelopp": "1009",
-  "år": "2024"
+    "country or territory": "Macao",
+    "standard amount": "682",
+    "year": "2025",
+    "code": "MO"
   },
   {
-  "land eller område": "Mongoliet",
-  "normalbelopp": "504",
-  "år": "2024"
+    "country or territory": "Madagascar",
+    "standard amount": "290",
+    "year": "2025",
+    "code": "MG"
   },
   {
-  "land eller område": "Montenegro",
-  "normalbelopp": "416",
-  "år": "2024"
+    "country or territory": "Malawi",
+    "standard amount": "327",
+    "year": "2025",
+    "code": "MW"
   },
   {
-  "land eller område": "Myanmar",
-  "normalbelopp": "290",
-  "år": "2024"
+    "country or territory": "Malaysia",
+    "standard amount": "332",
+    "year": "2025",
+    "code": "MY"
   },
   {
-  "land eller område": "Nederländerna",
-  "normalbelopp": "792",
-  "år": "2024"
+    "country or territory": "Maldives",
+    "standard amount": "545",
+    "year": "2025",
+    "code": "MV"
   },
   {
-  "land eller område": "Nederländska Antillerna",
-  "normalbelopp": "786",
-  "år": "2024"
+    "country or territory": "Mali",
+    "standard amount": "502",
+    "year": "2025",
+    "code": "ML"
   },
   {
-  "land eller område": "Nepal",
-  "normalbelopp": "312",
-  "år": "2024"
+    "country or territory": "Malta",
+    "standard amount": "658",
+    "year": "2025",
+    "code": "MT"
   },
   {
-  "land eller område": "Nicaragua",
-  "normalbelopp": "542",
-  "år": "2024"
+    "country or territory": "Morocco",
+    "standard amount": "506",
+    "year": "2025",
+    "code": "MA"
   },
   {
-  "land eller område": "Niger",
-  "normalbelopp": "387",
-  "år": "2024"
+    "country or territory": "Martinique",
+    "standard amount": "811",
+    "year": "2025",
+    "code": "MQ"
   },
   {
-  "land eller område": "Nigeria",
-  "normalbelopp": "435",
-  "år": "2024"
+    "country or territory": "Mauritania",
+    "standard amount": "388",
+    "year": "2025",
+    "code": "MR"
   },
   {
-  "land eller område": "Nordmakedonien",
-  "normalbelopp": "320",
-  "år": "2024"
+    "country or territory": "Mauritius",
+    "standard amount": "383",
+    "year": "2025",
+    "code": "MU"
   },
   {
-  "land eller område": "Norge",
-  "normalbelopp": "1104",
-  "år": "2024"
+    "country or territory": "Mexico",
+    "standard amount": "577",
+    "year": "2025",
+    "code": "MX"
   },
   {
-  "land eller område": "Nya Zeeland",
-  "normalbelopp": "656",
-  "år": "2024"
+    "country or territory": "Mikronesiska federationen",
+    "standard amount": "643",
+    "year": "2025",
+    "code": "FM"
   },
   {
-  "land eller område": "Oman",
-  "normalbelopp": "977",
-  "år": "2024"
+    "country or territory": "Mocambique",
+    "standard amount": "440",
+    "year": "2025",
+    "code": "MZ"
   },
   {
-  "land eller område": "Pakistan",
-  "normalbelopp": "290",
-  "år": "2024"
+    "country or territory": "Moldova",
+    "standard amount": "429",
+    "year": "2025",
+    "code": "MD"
   },
   {
-  "land eller område": "Panama",
-  "normalbelopp": "779",
-  "år": "2024"
+    "country or territory": "Monaco",
+    "standard amount": "1070",
+    "year": "2025",
+    "code": "MC"
   },
   {
-  "land eller område": "Papua Nya Guinea",
-  "normalbelopp": "662",
-  "år": "2024"
+    "country or territory": "Mongolia",
+    "standard amount": "398",
+    "year": "2025",
+    "code": "MN"
   },
   {
-  "land eller område": "Paraguay",
-  "normalbelopp": "352",
-  "år": "2024"
+    "country or territory": "Montenegro",
+    "standard amount": "411",
+    "year": "2025",
+    "code": "ME"
   },
   {
-  "land eller område": "Peru",
-  "normalbelopp": "504",
-  "år": "2024"
+    "country or territory": "Myanmar",
+    "standard amount": "336",
+    "year": "2025",
+    "code": "MM"
   },
   {
-  "land eller område": "Polen",
-  "normalbelopp": "562",
-  "år": "2024"
+    "country or territory": "Namibia",
+    "standard amount": "311",
+    "year": "2025",
+    "code": "NA"
   },
   {
-  "land eller område": "Portugal",
-  "normalbelopp": "613",
-  "år": "2024"
+    "country or territory": "Netherlands",
+    "standard amount": "756",
+    "year": "2025",
+    "code": "NL"
   },
   {
-  "land eller område": "Puerto Rico",
-  "normalbelopp": "1168",
-  "år": "2024"
+    "country or territory": "Nepal",
+    "standard amount": "290",
+    "year": "2025",
+    "code": "NP"
   },
   {
-  "land eller område": "Qatar",
-  "normalbelopp": "967",
-  "år": "2024"
+    "country or territory": "Nicaragua",
+    "standard amount": "527",
+    "year": "2025",
+    "code": "NI"
   },
   {
-  "land eller område": "Rumänien",
-  "normalbelopp": "424",
-  "år": "2024"
+    "country or territory": "Niger",
+    "standard amount": "410",
+    "year": "2025",
+    "code": "NE"
   },
   {
-  "land eller område": "Rwanda",
-  "normalbelopp": "290",
-  "år": "2024"
+    "country or territory": "North Macedonia",
+    "standard amount": "315",
+    "year": "2025",
+    "code": "MK"
   },
   {
-  "land eller område": "Ryssland",
-  "normalbelopp": "544",
-  "år": "2024"
+    "country or territory": "Norway",
+    "standard amount": "1095",
+    "year": "2025",
+    "code": "NO"
   },
   {
-  "land eller område": "Saint Lucia",
-  "normalbelopp": "789",
-  "år": "2024"
+    "country or territory": "Nya Kaledonien",
+    "standard amount": "923",
+    "year": "2025",
+    "code": "NC"
   },
   {
-  "land eller område": "Saint Vincent och Grenadinerna",
-  "normalbelopp": "564",
-  "år": "2024"
+    "country or territory": "New Zealand",
+    "standard amount": "640",
+    "year": "2025",
+    "code": "NZ"
   },
   {
-  "land eller område": "Samoa, Självständiga staten",
-  "normalbelopp": "649",
-  "år": "2024"
+    "country or territory": "Oman",
+    "standard amount": "944",
+    "year": "2025",
+    "code": "OM"
   },
   {
-  "land eller område": "San Marino",
-  "normalbelopp": "856",
-  "år": "2024"
+    "country or territory": "Pakistan",
+    "standard amount": "290",
+    "year": "2025",
+    "code": "PK"
   },
   {
-  "land eller område": "Saudiarabien",
-  "normalbelopp": "1220",
-  "år": "2024"
+    "country or territory": "Panama",
+    "standard amount": "757",
+    "year": "2025",
+    "code": "PA"
   },
   {
-  "land eller område": "Schweiz",
-  "normalbelopp": "1365",
-  "år": "2024"
+    "country or territory": "Papua Nya Guinea",
+    "standard amount": "598",
+    "year": "2025",
+    "code": "PG"
   },
   {
-  "land eller område": "Senegal",
-  "normalbelopp": "652",
-  "år": "2024"
+    "country or territory": "Paraguay",
+    "standard amount": "315",
+    "year": "2025",
+    "code": "PY"
   },
   {
-  "land eller område": "Serbien",
-  "normalbelopp": "453",
-  "år": "2024"
+    "country or territory": "Peru",
+    "standard amount": "484",
+    "year": "2025",
+    "code": "PE"
   },
   {
-  "land eller område": "Seychellerna",
-  "normalbelopp": "1092",
-  "år": "2024"
+    "country or territory": "Poland",
+    "standard amount": "615",
+    "year": "2025",
+    "code": "PL"
   },
   {
-  "land eller område": "Sierra Leone",
-  "normalbelopp": "290",
-  "år": "2024"
+    "country or territory": "Portugal",
+    "standard amount": "619",
+    "year": "2025",
+    "code": "PT"
   },
   {
-  "land eller område": "Singapore",
-  "normalbelopp": "959",
-  "år": "2024"
+    "country or territory": "Puerto Rico",
+    "standard amount": "806",
+    "year": "2025",
+    "code": "PR"
   },
   {
-  "land eller område": "Slovakien",
-  "normalbelopp": "691",
-  "år": "2024"
+    "country or territory": "Qatar",
+    "standard amount": "931",
+    "year": "2025",
+    "code": "QA"
   },
   {
-  "land eller område": "Slovenien",
-  "normalbelopp": "592",
-  "år": "2024"
+    "country or territory": "Réunion",
+    "standard amount": "763",
+    "year": "2025",
+    "code": "RE"
   },
   {
-  "land eller område": "Spanien",
-  "normalbelopp": "691",
-  "år": "2024"
+    "country or territory": "Romania",
+    "standard amount": "462",
+    "year": "2025",
+    "code": "RO"
   },
   {
-  "land eller område": "Sri Lanka",
-  "normalbelopp": "471",
-  "år": "2024"
+    "country or territory": "Rwanda",
+    "standard amount": "290",
+    "year": "2025",
+    "code": "RW"
   },
   {
-  "land eller område": "Storbritannien och Nordirland",
-  "normalbelopp": "914",
-  "år": "2024"
+    "country or territory": "Russia",
+    "standard amount": "589",
+    "year": "2025",
+    "code": "RU"
   },
   {
-  "land eller område": "Sudan",
-  "normalbelopp": "701",
-  "år": "2024"
+    "country or territory": "Saint Lucia",
+    "standard amount": "789",
+    "year": "2025",
+    "code": "LC"
   },
   {
-  "land eller område": "Swaziland",
-  "normalbelopp": "290",
-  "år": "2024"
+    "country or territory": "Saint Vincent and the Grenadines",
+    "standard amount": "514",
+    "year": "2025",
+    "code": "VC"
   },
   {
-  "land eller område": "Sydafrika",
-  "normalbelopp": "318",
-  "år": "2024"
+    "country or territory": "Salomonöarna",
+    "standard amount": "729",
+    "year": "2025",
+    "code": "SB"
   },
   {
-  "land eller område": "Sydkorea",
-  "normalbelopp": "681",
-  "år": "2024"
+    "country or territory": "Samoa (Independent State of Samoa)",
+    "standard amount": "616",
+    "year": "2025",
+    "code": "WS"
   },
   {
-  "land eller område": "Taiwan",
-  "normalbelopp": "615",
-  "år": "2024"
+    "country or territory": "San Marino",
+    "standard amount": "828",
+    "year": "2025",
+    "code": ""
   },
   {
-  "land eller område": "Tanzania",
-  "normalbelopp": "413",
-  "år": "2024"
+    "country or territory": "Saudi Arabia",
+    "standard amount": "1158",
+    "year": "2025",
+    "code": "SA"
   },
   {
-  "land eller område": "Thailand",
-  "normalbelopp": "563",
-  "år": "2024"
+    "country or territory": "Switzerland",
+    "standard amount": "1402",
+    "year": "2025",
+    "code": "CH"
   },
   {
-  "land eller område": "Tjeckien",
-  "normalbelopp": "735",
-  "år": "2024"
+    "country or territory": "Senegal",
+    "standard amount": "673",
+    "year": "2025",
+    "code": "SN"
   },
   {
-  "land eller område": "Togo",
-  "normalbelopp": "567",
-  "år": "2024"
+    "country or territory": "Serbia",
+    "standard amount": "515",
+    "year": "2025",
+    "code": "RS"
   },
   {
-  "land eller område": "Tonga",
-  "normalbelopp": "519",
-  "år": "2024"
+    "country or territory": "Seychelles",
+    "standard amount": "1011",
+    "year": "2025",
+    "code": "SC"
   },
   {
-  "land eller område": "Trinidad och Tobago",
-  "normalbelopp": "960",
-  "år": "2024"
+    "country or territory": "Sierra Leone",
+    "standard amount": "391",
+    "year": "2025",
+    "code": "SL"
   },
   {
-  "land eller område": "Tunisien",
-  "normalbelopp": "290",
-  "år": "2024"
+    "country or territory": "Singapore",
+    "standard amount": "961",
+    "year": "2025",
+    "code": "SG"
   },
   {
-  "land eller område": "Turkiet",
-  "normalbelopp": "290",
-  "år": "2024"
+    "country or territory": "Sint Maarten",
+    "standard amount": "831",
+    "year": "2025",
+    "code": "SX"
   },
   {
-  "land eller område": "Turkmenistan",
-  "normalbelopp": "1649",
-  "år": "2024"
+    "country or territory": "Slovakia",
+    "standard amount": "763",
+    "year": "2025",
+    "code": "SK"
   },
   {
-  "land eller område": "Tyskland",
-  "normalbelopp": "800",
-  "år": "2024"
+    "country or territory": "Slovenien",
+    "standard amount": "617",
+    "year": "2025",
+    "code": "SI"
   },
   {
-  "land eller område": "Uganda",
-  "normalbelopp": "422",
-  "år": "2024"
+    "country or territory": "Spain",
+    "standard amount": "676",
+    "year": "2025",
+    "code": "ES"
   },
   {
-  "land eller område": "Ukraina",
-  "normalbelopp": "393",
-  "år": "2024"
+    "country or territory": "Sri Lanka",
+    "standard amount": "515",
+    "year": "2025",
+    "code": "LK"
   },
   {
-  "land eller område": "Ungern",
-  "normalbelopp": "666",
-  "år": "2024"
+    "country or territory": "United Kingdom and Northern Ireland (UK)",
+    "standard amount": "986",
+    "year": "2025",
+    "code": "GB"
   },
   {
-  "land eller område": "Uruguay",
-  "normalbelopp": "624",
-  "år": "2024"
+    "country or territory": "Surinam",
+    "standard amount": "543",
+    "year": "2025",
+    "code": "SR"
   },
   {
-  "land eller område": "USA",
-  "normalbelopp": "1168",
-  "år": "2024"
+    "country or territory": "Eswatini (Swaziland)",
+    "standard amount": "310",
+    "year": "2025",
+    "code": ""
   },
   {
-  "land eller område": "Uzbekistan",
-  "normalbelopp": "290",
-  "år": "2024"
+    "country or territory": "South Africa",
+    "standard amount": "383",
+    "year": "2025",
+    "code": "ZA"
   },
   {
-  "land eller område": "Vanuatu",
-  "normalbelopp": "743",
-  "år": "2024"
+    "country or territory": "South Korea",
+    "standard amount": "617",
+    "year": "2025",
+    "code": "KR"
   },
   {
-  "land eller område": "Venezuela",
-  "normalbelopp": "420",
-  "år": "2024"
+    "country or territory": "Tadzjikistan",
+    "standard amount": "290",
+    "year": "2025",
+    "code": "TJ"
   },
   {
-  "land eller område": "Vietnam",
-  "normalbelopp": "433",
-  "år": "2024"
+    "country or territory": "Taiwan",
+    "standard amount": "590",
+    "year": "2025",
+    "code": "TW"
   },
   {
-  "land eller område": "Vitryssland",
-  "normalbelopp": "290",
-  "år": "2024"
+    "country or territory": "Tanzania",
+    "standard amount": "341",
+    "year": "2025",
+    "code": "TZ"
   },
   {
-  "land eller område": "Zambia",
-  "normalbelopp": "425",
-  "år": "2024"
+    "country or territory": "Tchad",
+    "standard amount": "624",
+    "year": "2025",
+    "code": "TD"
   },
   {
-  "land eller område": "Zimbabwe",
-  "normalbelopp": "660",
-  "år": "2024"
+    "country or territory": "Thailand",
+    "standard amount": "567",
+    "year": "2025",
+    "code": "TH"
   },
   {
-  "land eller område": "Österrike",
-  "normalbelopp": "746",
-  "år": "2024"
+    "country or territory": "Czech Republic",
+    "standard amount": "684",
+    "year": "2025",
+    "code": "CZ"
   },
   {
-  "land eller område": "Övriga länder och områden",
-  "normalbelopp": "493",
-  "år": "2024"
+    "country or territory": "Togo",
+    "standard amount": "560",
+    "year": "2025",
+    "code": "TG"
+  },
+  {
+    "country or territory": "Tonga",
+    "standard amount": "498",
+    "year": "2025",
+    "code": "TO"
+  },
+  {
+    "country or territory": "Trinidad and Tobago",
+    "standard amount": "923",
+    "year": "2025",
+    "code": "TT"
+  },
+  {
+    "country or territory": "Tunisien",
+    "standard amount": "290",
+    "year": "2025",
+    "code": "TN"
+  },
+  {
+    "country or territory": "Turkey",
+    "standard amount": "342",
+    "year": "2025",
+    "code": "TR"
+  },
+  {
+    "country or territory": "Turkmenistan",
+    "standard amount": "1628",
+    "year": "2025",
+    "code": "TM"
+  },
+  {
+    "country or territory": "Germany",
+    "standard amount": "774",
+    "year": "2025",
+    "code": "DE"
+  },
+  {
+    "country or territory": "Uganda",
+    "standard amount": "458",
+    "year": "2025",
+    "code": "UG"
+  },
+  {
+    "country or territory": "Ukraine",
+    "standard amount": "334",
+    "year": "2025",
+    "code": "UA"
+  },
+  {
+    "country or territory": "Hungary",
+    "standard amount": "637",
+    "year": "2025",
+    "code": "HU"
+  },
+  {
+    "country or territory": "Uruguay",
+    "standard amount": "604",
+    "year": "2025",
+    "code": "UY"
+  },
+  {
+    "country or territory": "USA",
+    "standard amount": "1152",
+    "year": "2025",
+    "code": "US"
+  },
+  {
+    "country or territory": "Uzbekistan",
+    "standard amount": "318",
+    "year": "2025",
+    "code": "UZ"
+  },
+  {
+    "country or territory": "Vanuatu",
+    "standard amount": "697",
+    "year": "2025",
+    "code": "VU"
+  },
+  {
+    "country or territory": "Venezuela",
+    "standard amount": "549",
+    "year": "2025",
+    "code": "VE"
+  },
+  {
+    "country or territory": "Vietnam",
+    "standard amount": "404",
+    "year": "2025",
+    "code": "VN"
+  },
+  {
+    "country or territory": "Zambia",
+    "standard amount": "322",
+    "year": "2025",
+    "code": "ZM"
+  },
+  {
+    "country or territory": "Hungary",
+    "standard amount": "781",
+    "year": "2025",
+    "code": "AT"
+  },
+  {
+    "country or territory": "East Timor",
+    "standard amount": "525",
+    "year": "2025",
+    "code": "TL"
+  },
+  {
+    "country or territory": "Other countries and territories",
+    "standard amount": "499",
+    "year": "2025",
+    "code": ""
   }
 ]
